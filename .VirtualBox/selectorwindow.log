@@ -1,0 +1,29 @@
+VirtualBox GUI VM Selector Window 5.2.44 r139111 win.x86 (Jul  9 2020 19:11:48) release log
+00:00:00.375001 Log opened 2022-03-30T06:35:45.139803600Z
+00:00:00.375001 Build Type: release
+00:00:00.375001 OS Product: Windows 10
+00:00:00.375001 OS Release: 10.0.19041
+00:00:00.375001 OS Service Pack: 
+00:00:00.421895 DMI Product Name: HP 245 G5 Notebook PC
+00:00:00.437525 DMI Product Version: Type1ProductConfigId
+00:00:00.437525 Host RAM: 3054MB (2.9GB) total, 288MB available
+00:00:00.437525 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.437525 Process ID: 9020
+00:00:00.437525 Package type: WINDOWS_32BITS_GENERIC
+00:00:00.437525 Qt version: 5.6.2
+00:00:00.468751 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.046898 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:40.834896 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:41.006764 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:46.168579 GUI: UIMediumEnumerator: Medium with key={d9bb6ea5-244a-48b2-8a9d-501357acbb5a} created
+00:01:47.271005 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:20.396080 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:51.065278 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:51.986116 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:52.026151 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:54.325308 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:03:55.055300 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:46.435683 GUI: UIMediumEnumerator: Medium with key={1b57dd1c-6b5d-4aa7-9ebb-e81cb5c207be} created
+00:05:02.868173 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:43.982484 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:45.462861 GUI: UIMediumEnumerator: Medium-enumeration finished!

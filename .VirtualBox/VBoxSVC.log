@@ -1,0 +1,138 @@
+VirtualBox COM Server 5.2.44 r139111 win.x86 (Jul  9 2020 19:11:48) release log
+00:00:00.053999 main     Log opened 2022-03-30T06:33:02.293673400Z
+00:00:00.053999 main     Build Type: release
+00:00:00.053999 main     OS Product: Windows 10
+00:00:00.053999 main     OS Release: 10.0.19041
+00:00:00.053999 main     OS Service Pack: 
+00:00:00.221998 main     DMI Product Name: HP 245 G5 Notebook PC
+00:00:00.299003 main     DMI Product Version: Type1ProductConfigId
+00:00:00.299003 main     Host RAM: 3054MB (2.9GB) total, 416MB available
+00:00:00.300000 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.300000 main     Process ID: 10900
+00:00:00.300000 main     Package type: WINDOWS_32BITS_GENERIC
+00:00:00.355993          VirtualBox: object creation starts
+00:00:00.357994          Home directory: 'C:\Users\Bhanu\.VirtualBox'
+00:00:00.359994          Installed Drivers:
+00:00:00.425014            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 5.2.44.39111)
+00:00:00.440998            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 5.2.44.39111)
+00:00:00.469997            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 5.2.44.39111)
+00:00:00.485997            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 5.2.44.39111)
+00:00:00.720998          usbLibGetDevices: Starting USB device enumeration
+00:00:00.906355          usbLibGetDevices: Found 1 USB devices, 0 captured
+00:00:02.978500          netIfIsWireless: CreateFile on '\\.\{C9168946-D7C4-419F-98F8-48BC9D4FBBFB}' failed with rcWin=2 (0x2) - ignoring
+00:00:02.984501          netIfIsWireless: CreateFile on '\\.\{C37DDE58-4019-45C1-8C78-FB6E2B256DD0}' failed with rcWin=2 (0x2) - ignoring
+00:00:02.986498          netIfIsWireless: CreateFile on '\\.\{DD361CB8-54D2-4A53-999A-131E26625288}' failed with rcWin=2 (0x2) - ignoring
+00:00:02.988500          netIfIsWireless: CreateFile on '\\.\{18B55BBF-FBB4-4A40-A520-D1268A0638B5}' failed with rcWin=2 (0x2) - ignoring
+00:00:02.991499          netIfIsWireless: CreateFile on '\\.\{3F6A8FDA-1D53-4B3A-89E8-DAB4D8C3A1D2}' failed with rcWin=2 (0x2) - ignoring
+00:00:02.999498          netIfIsWireless: CreateFile on '\\.\{31187B65-F8BE-49F1-8E81-59B017992F92}' failed with rcWin=2 (0x2) - ignoring
+00:00:03.001499          netIfIsWireless: CreateFile on '\\.\{1411095D-F945-49C2-8B86-3890618A78F2}' failed with rcWin=2 (0x2) - ignoring
+00:00:03.003498          netIfIsWireless: CreateFile on '\\.\{DACDAEFD-496B-4E40-B656-A6C1F6DCE3EE}' failed with rcWin=2 (0x2) - ignoring
+00:00:03.008496          netIfIsWireless: CreateFile on '\\.\{298E1E31-2A1F-4D9F-9D3C-F32F91D99316}' failed with rcWin=2 (0x2) - ignoring
+00:00:03.020497          netIfIsWireless: CreateFile on '\\.\{ABF84DC9-9120-447C-BEF7-99F6784067C0}' failed with rcWin=2 (0x2) - ignoring
+00:00:03.304497          HostDnsMonitor::updateInfo
+00:00:03.514502          HostDnsMonitor: old information
+00:00:03.514502            no server entries
+00:00:03.514502            no domain set
+00:00:03.514502            no search string entries
+00:00:03.514502          HostDnsMonitor: new information
+00:00:03.514502            server 1: 192.168.29.1
+00:00:03.514502            no domain set
+00:00:03.514502            no search string entries
+00:00:04.412501          VD: VDInit finished with VINF_SUCCESS
+00:00:04.596494          VirtualBox: object created
+00:00:21.565504          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:21.921522          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:41.159065          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:41.221541          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:41.315289          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:41.409041          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:04:28.801681          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:04:28.993676          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:04:29.043686          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:04:29.309674          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:04:29.483682          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:04:47.863949          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:04:49.373252          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:04:51.109464          netIfIsWireless: CreateFile on '\\.\{C9168946-D7C4-419F-98F8-48BC9D4FBBFB}' failed with rcWin=2 (0x2) - ignoring
+00:04:51.111417          netIfIsWireless: CreateFile on '\\.\{C37DDE58-4019-45C1-8C78-FB6E2B256DD0}' failed with rcWin=2 (0x2) - ignoring
+00:04:51.113370          netIfIsWireless: CreateFile on '\\.\{DD361CB8-54D2-4A53-999A-131E26625288}' failed with rcWin=2 (0x2) - ignoring
+00:04:51.115322          netIfIsWireless: CreateFile on '\\.\{18B55BBF-FBB4-4A40-A520-D1268A0638B5}' failed with rcWin=2 (0x2) - ignoring
+00:04:51.118276          netIfIsWireless: CreateFile on '\\.\{3F6A8FDA-1D53-4B3A-89E8-DAB4D8C3A1D2}' failed with rcWin=2 (0x2) - ignoring
+00:04:51.125110          netIfIsWireless: CreateFile on '\\.\{31187B65-F8BE-49F1-8E81-59B017992F92}' failed with rcWin=2 (0x2) - ignoring
+00:04:51.128039          netIfIsWireless: CreateFile on '\\.\{1411095D-F945-49C2-8B86-3890618A78F2}' failed with rcWin=2 (0x2) - ignoring
+00:04:51.129993          netIfIsWireless: CreateFile on '\\.\{DACDAEFD-496B-4E40-B656-A6C1F6DCE3EE}' failed with rcWin=2 (0x2) - ignoring
+00:04:51.133900          netIfIsWireless: CreateFile on '\\.\{298E1E31-2A1F-4D9F-9D3C-F32F91D99316}' failed with rcWin=2 (0x2) - ignoring
+00:04:51.144617          netIfIsWireless: CreateFile on '\\.\{ABF84DC9-9120-447C-BEF7-99F6784067C0}' failed with rcWin=2 (0x2) - ignoring
+00:05:02.835310          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:06:33.448815          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:06:33.617748          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:06:34.230989          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:06:34.431173          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:06:37.705453          netIfIsWireless: CreateFile on '\\.\{C9168946-D7C4-419F-98F8-48BC9D4FBBFB}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.705453          netIfIsWireless: CreateFile on '\\.\{C37DDE58-4019-45C1-8C78-FB6E2B256DD0}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.705453          netIfIsWireless: CreateFile on '\\.\{DD361CB8-54D2-4A53-999A-131E26625288}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.705453          netIfIsWireless: CreateFile on '\\.\{18B55BBF-FBB4-4A40-A520-D1268A0638B5}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.705453          netIfIsWireless: CreateFile on '\\.\{3F6A8FDA-1D53-4B3A-89E8-DAB4D8C3A1D2}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.721051          netIfIsWireless: CreateFile on '\\.\{31187B65-F8BE-49F1-8E81-59B017992F92}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.721051          netIfIsWireless: CreateFile on '\\.\{1411095D-F945-49C2-8B86-3890618A78F2}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.721051          netIfIsWireless: CreateFile on '\\.\{DACDAEFD-496B-4E40-B656-A6C1F6DCE3EE}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.736681          netIfIsWireless: CreateFile on '\\.\{298E1E31-2A1F-4D9F-9D3C-F32F91D99316}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.736681          netIfIsWireless: CreateFile on '\\.\{ABF84DC9-9120-447C-BEF7-99F6784067C0}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.924175          netIfIsWireless: CreateFile on '\\.\{C9168946-D7C4-419F-98F8-48BC9D4FBBFB}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.924175          netIfIsWireless: CreateFile on '\\.\{C37DDE58-4019-45C1-8C78-FB6E2B256DD0}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.924175          netIfIsWireless: CreateFile on '\\.\{DD361CB8-54D2-4A53-999A-131E26625288}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.939820          netIfIsWireless: CreateFile on '\\.\{18B55BBF-FBB4-4A40-A520-D1268A0638B5}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.939820          netIfIsWireless: CreateFile on '\\.\{3F6A8FDA-1D53-4B3A-89E8-DAB4D8C3A1D2}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.951297          netIfIsWireless: CreateFile on '\\.\{31187B65-F8BE-49F1-8E81-59B017992F92}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.954298          netIfIsWireless: CreateFile on '\\.\{1411095D-F945-49C2-8B86-3890618A78F2}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.957297          netIfIsWireless: CreateFile on '\\.\{DACDAEFD-496B-4E40-B656-A6C1F6DCE3EE}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.961295          netIfIsWireless: CreateFile on '\\.\{298E1E31-2A1F-4D9F-9D3C-F32F91D99316}' failed with rcWin=2 (0x2) - ignoring
+00:06:37.973318          netIfIsWireless: CreateFile on '\\.\{ABF84DC9-9120-447C-BEF7-99F6784067C0}' failed with rcWin=2 (0x2) - ignoring
+00:07:28.617056          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:28.679554          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:45.174544          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:08:01.840248          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:08:02.936856          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:08:04.077405          netIfIsWireless: CreateFile on '\\.\{C9168946-D7C4-419F-98F8-48BC9D4FBBFB}' failed with rcWin=2 (0x2) - ignoring
+00:08:04.079357          netIfIsWireless: CreateFile on '\\.\{C37DDE58-4019-45C1-8C78-FB6E2B256DD0}' failed with rcWin=2 (0x2) - ignoring
+00:08:04.082287          netIfIsWireless: CreateFile on '\\.\{DD361CB8-54D2-4A53-999A-131E26625288}' failed with rcWin=2 (0x2) - ignoring
+00:08:04.084245          netIfIsWireless: CreateFile on '\\.\{18B55BBF-FBB4-4A40-A520-D1268A0638B5}' failed with rcWin=2 (0x2) - ignoring
+00:08:04.086197          netIfIsWireless: CreateFile on '\\.\{3F6A8FDA-1D53-4B3A-89E8-DAB4D8C3A1D2}' failed with rcWin=2 (0x2) - ignoring
+00:08:04.093033          netIfIsWireless: CreateFile on '\\.\{31187B65-F8BE-49F1-8E81-59B017992F92}' failed with rcWin=2 (0x2) - ignoring
+00:08:04.094987          netIfIsWireless: CreateFile on '\\.\{1411095D-F945-49C2-8B86-3890618A78F2}' failed with rcWin=2 (0x2) - ignoring
+00:08:04.096939          netIfIsWireless: CreateFile on '\\.\{DACDAEFD-496B-4E40-B656-A6C1F6DCE3EE}' failed with rcWin=2 (0x2) - ignoring
+00:08:04.100841          netIfIsWireless: CreateFile on '\\.\{298E1E31-2A1F-4D9F-9D3C-F32F91D99316}' failed with rcWin=2 (0x2) - ignoring
+00:08:04.111583          netIfIsWireless: CreateFile on '\\.\{ABF84DC9-9120-447C-BEF7-99F6784067C0}' failed with rcWin=2 (0x2) - ignoring
+00:08:26.109197          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:08:27.725308          Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+00:11:54.937052 dns-monitor HostDnsMonitor::updateInfo
+00:11:54.957565 dns-monitor HostDnsMonitor: unchanged
+00:18:39.365624 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:18:40.233733 USBPROXY usbLibGetDevices: Found 1 USB devices, 0 captured
+00:18:54.459495 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:18:54.562028 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_0438&PID_7900#5&39a51795&0&1#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:18:54.632337 USBPROXY usbLibGetDevices: Found 1 USB devices, 0 captured
+00:18:55.155736 USBPROXY USB: Unknown USB device detected (idVendor: 0x05c8, idProduct: 0x038f)
+00:38:36.130168 dns-monitor HostDnsMonitor::updateInfo
+00:38:36.362575 dns-monitor HostDnsMonitor: unchanged
+01:06:34.597935 dns-monitor HostDnsMonitor::updateInfo
+01:06:34.597935 dns-monitor HostDnsMonitor: unchanged
+01:18:49.275387 MainPower Host suspending: Paused 1 VMs
+01:27:21.933112 dns-monitor HostDnsMonitor::updateInfo
+01:27:21.933112 dns-monitor HostDnsMonitor: unchanged
+01:27:28.090927 dns-monitor HostDnsMonitor::updateInfo
+01:27:28.090927 dns-monitor HostDnsMonitor: unchanged
+02:34:16.783468 dns-monitor HostDnsMonitor::updateInfo
+02:34:16.783468 dns-monitor HostDnsMonitor: unchanged
+02:34:37.852650 MainPower Host resumed: Resumed 1 VMs
+02:41:01.633978          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+02:41:02.753049          Saving settings file "C:\Users\Bhanu\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+02:41:24.891905 Watcher  Saving settings file "C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vbox" with version "1.16-windows"
+02:45:03.370020 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:45:03.755998 USBPROXY usbLibGetDevices: Found 1 USB devices, 0 captured
+02:45:09.806994 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:45:09.916998 USBPROXY usbLibGetDevices: Found 1 USB devices, 0 captured
+02:47:42.920513 main     VirtualBox: object deletion starts
+02:47:42.962527 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={4afe423b-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'C:\Users\Bhanu\VirtualBox VMs\ubuntu 20.04\ubuntu 20.04.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:47:43.042527 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={9570b9d5-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+02:47:43.044523 main     VirtualBox: object deleted
